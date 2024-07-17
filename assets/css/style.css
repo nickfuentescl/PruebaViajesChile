@@ -1,3 +1,16 @@
+body{
+background-color: black;
+color: white;
+
+}
 .prueba1{
     height: 100vh;
+}
+
+.fondocalipso{
+    background-color: #0dc9f0;
+}
+
+.tamanos3secciones{
+    font-size: 1.3rem;
 }
