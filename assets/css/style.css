@@ -1,25 +1,40 @@
-body{
-background-color: black;
-color: white;
+body {
+    background-color: black;
+    color: white;
+    font-family: "Raleway", sans-serif;
 
 }
-.prueba1{
+
+.prueba1 {
     height: 100vh;
 }
 
-.fondocalipso{
+.fondocalipso {
     background-color: #0dc9f0;
 }
 
-.tamanos3secciones{
+.tamanos3secciones {
     font-size: 1.3rem;
 }
 
-.fitcartas{
+.fitcartas {
     object-fit: cover;
 }
+
 .card-img-top {
     width: 100%;
     height: 100%;
     object-fit: cover;
+}
+
+.raleway-titulo {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 2rem;
+}
+
+.tamanoimagenesfooter {
+    font-size: 3rem;
 }
