@@ -4,6 +4,9 @@ body {
     font-family: "Raleway", sans-serif;
 
 }
+html {
+    scroll-behavior: smooth;
+  }
 
 .prueba1 {
     object-fit: cover;
