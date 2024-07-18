@@ -6,11 +6,13 @@ body {
 }
 
 .prueba1 {
+    object-fit: cover;
     height: 100vh;
 }
 
 .fondocalipso {
     background-color: #0dc9f0;
+    color: white;
 }
 
 .tamanos3secciones {
@@ -37,4 +39,17 @@ body {
 
 .tamanoimagenesfooter {
     font-size: 3rem;
+}
+
+.navscroll {
+    transition:background-color 500ms, color 500ms;
+}
+
+.navscroll.azul {
+    background-color:#0dc9f0;
+    color:white;
+}
+
+a{
+    color: white;
 }
