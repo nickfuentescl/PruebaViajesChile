@@ -1,8 +1,8 @@
-##Desafio Evaluado - Viajes Chile
+# Desafio Evaluado - Viajes Chile
 
 se le agrego jquery y una clase especifica para que el navbar parasara de transparente a color
 
-###Jquery
+### Jquery
 ```
 $(function (){
     $(window).scroll(function(){
@@ -15,7 +15,7 @@ $(function (){
 });
 ```
 
-###CSS
+### CSS
 ```
 .navscroll {
     transition:background-color 500ms, color 500ms;
