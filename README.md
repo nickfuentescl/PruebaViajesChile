@@ -1,4 +1,4 @@
-# Desafio Evaluado - Viajes Chile
+# Prueba Evaluada - Viajes Chile
 
 se le agrego jquery y una clase especifica para que el navbar pasara de transparente a color
 
